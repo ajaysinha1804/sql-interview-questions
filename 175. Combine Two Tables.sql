@@ -1,3 +1,4 @@
+-- ajaysinha
 -- Question Name : 175. Combine Two Tables
 -- Question URL  : https://leetcode.com/problems/combine-two-tables/description/
 -- My Approach   :  
