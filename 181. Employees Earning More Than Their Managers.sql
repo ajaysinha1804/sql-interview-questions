@@ -1,3 +1,4 @@
+-- ajaysinha
 -- Question Name : 181. Employees Earning More Than Their Managers
 -- Question URL  : https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
 -- My Approach   :  
